@@ -14,3 +14,14 @@ This is a simple **Tic Tac Toe** game built with Python.
 
 ```bash
 python tictactoe.py
+
+
+## Contributions
+Contributions are welcome! If you have suggestions for improvements or bug fixes, feel free to:
+
+Fork the project
+Create a new branch (git checkout -b feature/AmazingFeature)
+Make your changes
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a Pull Request project, as well as detailing how to contribute effectively.
